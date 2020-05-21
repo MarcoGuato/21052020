@@ -11,3 +11,5 @@ la dirección es en el icono de ubicación
 
 Se creo el 'js' con funciones para buscar direcciones en la base de datos
 
+La hoja de estilo de la barra de busqueda se esta trabajando por separado pero aun  no esta lista
+
