@@ -1,0 +1,1 @@
+// JavaScript Documentvar clicN=0;window.onload = function() {if(clicN==0){alert("LOAD");var formaUB=document.getElementById("formaUB");};};function buscando(){	clicN++;	alert("CLICK"+clicN);	if(clicN!=0){	document.getElementById('formaUB').style.display = 'none';	};};
